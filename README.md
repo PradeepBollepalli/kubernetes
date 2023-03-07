@@ -1,0 +1,2 @@
+# kubernetes
+pods,replicaset
