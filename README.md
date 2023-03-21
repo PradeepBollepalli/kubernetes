@@ -1,4 +1,4 @@
-# This is about pods,replicaset and yanl files
+ This is about pods,replicaset and yaml files
 
 
 
